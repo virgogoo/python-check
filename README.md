@@ -211,7 +211,7 @@ scp ./usr/bin/checkpy root@192.168.1.1:/tmp/checkpy_bin
 ```
 5. Then, SSH to Pi 4 and run:
 ```bash
-/tmp/checkpy
+/tmp/checkpy_bin
 ```
 
 ### 8. Conclusion
